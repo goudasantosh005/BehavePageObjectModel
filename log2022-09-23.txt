@@ -1,0 +1,71 @@
+2022-09-23 12:21:53,435 - BasePage.py:[34] - [INFO] - Typing in an Element nike_XPATHwith value Rahul Test
+2022-09-23 12:21:53,495 - BasePage.py:[34] - [INFO] - Typing in an Element puma_XPATHwith value 98876678
+2022-09-23 12:21:53,552 - BasePage.py:[34] - [INFO] - Typing in an Element email_XPATHwith value test@test.com
+2022-09-23 12:21:53,599 - BasePage.py:[46] - [INFO] - Selecting value from an Element country_XPATHwith value India
+2022-09-23 12:21:53,655 - BasePage.py:[34] - [INFO] - Typing in an Element city_XPATHwith value Bangaloare
+2022-09-23 12:21:53,708 - BasePage.py:[34] - [INFO] - Typing in an Element username_XPATHwith value testing1
+2022-09-23 12:21:53,762 - BasePage.py:[34] - [INFO] - Typing in an Element password_XPATHwith value testret1
+2022-09-23 12:21:53,815 - BasePage.py:[25] - [INFO] - CLicking on an Element submit_XPATH
+2022-09-23 12:24:17,297 - BasePage.py:[34] - [INFO] - Typing in an Element nike_XPATHwith value Rahul Test
+2022-09-23 12:24:17,358 - BasePage.py:[34] - [INFO] - Typing in an Element puma_XPATHwith value 98876678
+2022-09-23 12:24:17,424 - BasePage.py:[34] - [INFO] - Typing in an Element email_XPATHwith value test@test.com
+2022-09-23 12:24:17,479 - BasePage.py:[46] - [INFO] - Selecting value from an Element country_XPATHwith value India
+2022-09-23 12:24:17,547 - BasePage.py:[34] - [INFO] - Typing in an Element city_XPATHwith value Bangaloare
+2022-09-23 12:24:17,602 - BasePage.py:[34] - [INFO] - Typing in an Element username_XPATHwith value testing1
+2022-09-23 12:24:17,657 - BasePage.py:[34] - [INFO] - Typing in an Element password_XPATHwith value testret1
+2022-09-23 12:24:17,718 - BasePage.py:[25] - [INFO] - CLicking on an Element submit_XPATH
+2022-09-23 12:26:07,015 - BasePage.py:[34] - [INFO] - Typing in an Element nike_XPATHwith value Rahul Test
+2022-09-23 12:26:07,072 - BasePage.py:[34] - [INFO] - Typing in an Element puma_XPATHwith value 98876678
+2022-09-23 12:26:07,130 - BasePage.py:[34] - [INFO] - Typing in an Element email_XPATHwith value test@test.com
+2022-09-23 12:26:07,173 - BasePage.py:[46] - [INFO] - Selecting value from an Element country_XPATHwith value India
+2022-09-23 12:26:07,241 - BasePage.py:[34] - [INFO] - Typing in an Element city_XPATHwith value Bangaloare
+2022-09-23 12:26:07,296 - BasePage.py:[34] - [INFO] - Typing in an Element username_XPATHwith value testing1
+2022-09-23 12:26:07,364 - BasePage.py:[34] - [INFO] - Typing in an Element password_XPATHwith value testret1
+2022-09-23 12:26:07,419 - BasePage.py:[25] - [INFO] - CLicking on an Element submit_XPATH
+2022-09-23 13:17:54,119 - BasePage.py:[34] - [INFO] - Typing in an Element nike_XPATHwith value Testing1
+2022-09-23 13:17:54,186 - BasePage.py:[34] - [INFO] - Typing in an Element puma_XPATHwith value 089098761
+2022-09-23 13:17:54,255 - BasePage.py:[34] - [INFO] - Typing in an Element email_XPATHwith value testing1@test.com
+2022-09-23 13:17:54,295 - BasePage.py:[46] - [INFO] - Selecting value from an Element country_XPATHwith value India
+2022-09-23 13:17:54,350 - BasePage.py:[34] - [INFO] - Typing in an Element city_XPATHwith value Bangalore
+2022-09-23 13:17:54,402 - BasePage.py:[34] - [INFO] - Typing in an Element username_XPATHwith value username1
+2022-09-23 13:17:54,458 - BasePage.py:[34] - [INFO] - Typing in an Element password_XPATHwith value password1
+2022-09-23 13:17:54,511 - BasePage.py:[25] - [INFO] - CLicking on an Element submit_XPATH
+2022-09-23 13:18:23,487 - BasePage.py:[34] - [INFO] - Typing in an Element nike_XPATHwith value Testing2
+2022-09-23 13:18:23,546 - BasePage.py:[34] - [INFO] - Typing in an Element puma_XPATHwith value 089098762
+2022-09-23 13:18:23,609 - BasePage.py:[34] - [INFO] - Typing in an Element email_XPATHwith value testing2@test.com
+2022-09-23 13:18:23,678 - BasePage.py:[46] - [INFO] - Selecting value from an Element country_XPATHwith value Germany
+2022-09-23 13:18:23,735 - BasePage.py:[34] - [INFO] - Typing in an Element city_XPATHwith value Delhi
+2022-09-23 13:18:23,791 - BasePage.py:[34] - [INFO] - Typing in an Element username_XPATHwith value username2
+2022-09-23 13:18:23,850 - BasePage.py:[34] - [INFO] - Typing in an Element password_XPATHwith value password2
+2022-09-23 13:18:23,911 - BasePage.py:[25] - [INFO] - CLicking on an Element submit_XPATH
+2022-09-23 13:33:11,472 - BasePage.py:[34] - [INFO] - Typing in an Element nike_XPATHwith value Testing1
+2022-09-23 13:33:11,525 - BasePage.py:[34] - [INFO] - Typing in an Element puma_XPATHwith value 089098761
+2022-09-23 13:33:11,580 - BasePage.py:[34] - [INFO] - Typing in an Element email_XPATHwith value testing1@test.com
+2022-09-23 13:33:11,616 - BasePage.py:[46] - [INFO] - Selecting value from an Element country_XPATHwith value India
+2022-09-23 13:33:11,673 - BasePage.py:[34] - [INFO] - Typing in an Element city_XPATHwith value Bangalore
+2022-09-23 13:33:11,725 - BasePage.py:[34] - [INFO] - Typing in an Element username_XPATHwith value username1
+2022-09-23 13:33:11,777 - BasePage.py:[34] - [INFO] - Typing in an Element password_XPATHwith value password1
+2022-09-23 13:33:32,516 - BasePage.py:[34] - [INFO] - Typing in an Element nike_XPATHwith value Testing2
+2022-09-23 13:33:32,580 - BasePage.py:[34] - [INFO] - Typing in an Element puma_XPATHwith value 089098762
+2022-09-23 13:33:32,643 - BasePage.py:[34] - [INFO] - Typing in an Element email_XPATHwith value testing2@test.com
+2022-09-23 13:33:32,702 - BasePage.py:[46] - [INFO] - Selecting value from an Element country_XPATHwith value Germany
+2022-09-23 13:33:32,759 - BasePage.py:[34] - [INFO] - Typing in an Element city_XPATHwith value Delhi
+2022-09-23 13:33:32,822 - BasePage.py:[34] - [INFO] - Typing in an Element username_XPATHwith value username2
+2022-09-23 13:33:32,879 - BasePage.py:[34] - [INFO] - Typing in an Element password_XPATHwith value password2
+2022-09-23 13:33:32,936 - BasePage.py:[25] - [INFO] - CLicking on an Element submit_XPATH
+2022-09-23 13:34:24,069 - BasePage.py:[34] - [INFO] - Typing in an Element nike_XPATHwith value Testing1
+2022-09-23 13:34:24,126 - BasePage.py:[34] - [INFO] - Typing in an Element puma_XPATHwith value 089098761
+2022-09-23 13:34:24,184 - BasePage.py:[34] - [INFO] - Typing in an Element email_XPATHwith value testing1@test.com
+2022-09-23 13:34:24,223 - BasePage.py:[46] - [INFO] - Selecting value from an Element country_XPATHwith value India
+2022-09-23 13:34:24,281 - BasePage.py:[34] - [INFO] - Typing in an Element city_XPATHwith value Bangalore
+2022-09-23 13:34:24,338 - BasePage.py:[34] - [INFO] - Typing in an Element username_XPATHwith value username1
+2022-09-23 13:34:24,391 - BasePage.py:[34] - [INFO] - Typing in an Element password_XPATHwith value password1
+2022-09-23 13:34:24,444 - BasePage.py:[25] - [INFO] - CLicking on an Element submit_XPATH
+2022-09-23 13:34:43,882 - BasePage.py:[34] - [INFO] - Typing in an Element nike_XPATHwith value Testing2
+2022-09-23 13:34:43,940 - BasePage.py:[34] - [INFO] - Typing in an Element puma_XPATHwith value 089098762
+2022-09-23 13:34:44,000 - BasePage.py:[34] - [INFO] - Typing in an Element email_XPATHwith value testing2@test.com
+2022-09-23 13:34:44,065 - BasePage.py:[46] - [INFO] - Selecting value from an Element country_XPATHwith value Germany
+2022-09-23 13:34:44,120 - BasePage.py:[34] - [INFO] - Typing in an Element city_XPATHwith value Delhi
+2022-09-23 13:34:44,174 - BasePage.py:[34] - [INFO] - Typing in an Element username_XPATHwith value username2
+2022-09-23 13:34:44,227 - BasePage.py:[34] - [INFO] - Typing in an Element password_XPATHwith value password2
+2022-09-23 13:34:44,288 - BasePage.py:[25] - [INFO] - CLicking on an Element submit_XPATH

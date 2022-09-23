@@ -1,0 +1,43 @@
+PageObjectModelFramework with Behave
+
+1. Install behave, selenium, webdriver-manager, allure-behave
+2. set up environment.py and behave.ini
+3. Utilities-> configReader,LogUtil
+4. ConfigurationData -> config.ini
+5. pageobjects->BasePage.py
+
+
+________________________________________________________________________
+From previous lectures, Behave Basics
+________________________________________________________________________
+
+Basics:
+
+1. Install behave
+2. Create feature folder and steps folder inside feature folder
+3. To run tests use keyword 'behave'
+4. Install selenium anf webdriver-manager
+
+____________________
+Behave hooks
+1. before_scenario, after_step in environment.py under features folder
+2. behave.ini under root folder
+3. To run with specific tag : behave --tags=smoke
+4. To run by skipping the specific tag : behave --tags=-smoke
+5. Background: for executing the common steps for all scenarios in feature
+
+____________________
+Allure Reports
+1. install allure-behave
+2. Run with Allure: behave -f allure_behave.formatter:AllureFormatter -o <folder_name> ./features
+3. allure serve folder name: Created html report for the jsons stored in folder_name
+
+____________________
+Capture screenshot and attach to the allure report
+1. Add the below code in environment.py
+
+def after_step(context, step):
+    print()
+    if step.status == 'failed':
+        allure.attach(context.driver.get_screenshot_as_png(), name='screenshot',
+                      attachment_type=allure.attachment_type.PNG)
